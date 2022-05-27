@@ -1,0 +1,10 @@
+.login__register {
+    align-items: center;
+    background-color: #FFF;
+    border: 1px solid #DBDBDB;
+    display: flex;
+    justify-content: center;
+    height: 63px;
+    margin-bottom: 10px;
+    width: 350p;
+}

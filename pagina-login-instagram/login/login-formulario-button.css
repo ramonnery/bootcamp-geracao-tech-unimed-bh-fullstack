@@ -1,0 +1,13 @@
+.login__formulario__button {
+    background-color: #B2DFFC;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-family: "Segoe UI";
+    font-size: 14px;
+    font-weight: 600;
+    color: #FFF;
+    height: 30px;
+    margin: 8px 40px;
+    padding: 5px 9px;
+    width: 268px;
+}

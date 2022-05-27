@@ -1,0 +1,12 @@
+.login__fields {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #FFF;
+    border: 1px solid #DBDBDB;
+    box-sizing: border-box;
+    height: 396px;
+    margin-bottom: 10px;
+    padding: 10px 0;
+
+}

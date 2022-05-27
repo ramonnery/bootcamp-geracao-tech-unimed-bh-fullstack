@@ -1,0 +1,9 @@
+.phone {
+    background-image: url(../img/phone-estatico.png);
+    background-repeat: no-repeat;
+    height: 635px;
+    margin-top: 32px;
+    overflow: hidden;
+    position: relative;
+    width: 465px;
+}

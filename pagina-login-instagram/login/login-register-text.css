@@ -1,0 +1,11 @@
+.login__register__text {
+    font-size: 14px;
+    color: #262626;
+    margin: 15px;
+}
+
+.login__register__text--link {
+    font-weight: 600;
+    color: #0095F6;
+    text-decoration: none;
+}

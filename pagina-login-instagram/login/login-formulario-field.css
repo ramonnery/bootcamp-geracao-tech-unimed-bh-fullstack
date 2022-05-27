@@ -1,0 +1,13 @@
+.login__formulario__field {
+    background-color: #FAFAFA;
+    border: 1px solid #DBDBDB;
+    border-radius: 3px;
+    box-sizing: border-box;
+    color: #8E8E8E;
+    font-size: 12px;
+    font-weight: lighter;
+    height: 38px;
+    margin: 0 40px 6px;
+    padding: 9px 0 7px 8px;
+    width: 268px;
+}
