@@ -8,3 +8,10 @@
     margin-bottom: 10px;
     width: 350p;
 }
+
+@media (max-width: 450px) {
+    .login__register {
+        background-color: transparent;
+        border: none;
+    }
+}

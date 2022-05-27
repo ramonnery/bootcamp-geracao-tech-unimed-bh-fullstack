@@ -6,3 +6,15 @@
     text-align: center;
     width: 350px;
 }
+
+@media (max-width: 825px) {
+    .login {
+        margin-top: 45px;
+    }
+}
+
+@media (max-width: 450px) {
+    .login {
+        margin-top: 45px;
+    }
+}

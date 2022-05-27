@@ -7,3 +7,9 @@
     position: relative;
     width: 465px;
 }
+
+@media (max-width: 825px) {
+    .phone {
+        display: none;
+    }
+}

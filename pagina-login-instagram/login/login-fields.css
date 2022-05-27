@@ -10,3 +10,10 @@
     padding: 10px 0;
 
 }
+
+@media (max-width: 450px) {
+    .login__fields {
+        background-color: transparent;
+        border: none;
+    }
+}
